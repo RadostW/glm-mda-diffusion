@@ -1,10 +1,10 @@
 # glm_mda_diffusion
 
-## or *Globule-Linker-Model, Minimmum-Dissipation-Approximation diffusion coefficient calculator*
+## or *Globule-Linker-Model, Minimum-Dissipation-Approximation diffusion coefficient calculator*
 
 ![Banner](sequence_and_shape_banner.png)
 
-Minimum dissipation approximation is a fast algorithm for the prediction of diffusive properties of intrinsically disordered proteins.
+Minimum dissipation approximation is a fast algorithm for predicting the diffusive properties of intrinsically disordered proteins.
 
 # Installation
 
