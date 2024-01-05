@@ -5,7 +5,7 @@ with open("README.md") as f:
 
 setup(
     name="glm_mda_diffusion",
-    version="1.0",
+    version="1.1",
     description="Minimum dissipation approximation: A fast algorithm for the prediction of diffusive properties of intrinsically disordered proteins",
     url="https://github.com/RadostW/glm-mda-diffusion/",
     author="Radost Waszkiewicz",

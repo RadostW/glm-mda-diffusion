@@ -182,6 +182,8 @@ def _bead_description_compact(
             bead_description_compact.append(
                 [hydrodynamic_radius, steric_radius, len(block)]
             )
+        elif len(block) == 0:
+            continue            
         else:
             raise ValueError("Malformed seqence passed: " + block)
 
