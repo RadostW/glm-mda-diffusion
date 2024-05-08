@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+
+message: "If you use GLM-MDA, please cite it as below."
+
+authors:
+- family-names: "Waszkiewicz"
+  given-names: "Radost"
+  orcid: "https://orcid.org/0000-0002-0376-1708"
+  
+- family-names: "Michaś"
+  given-names: "Agnieszka"
+  
+- family-names: "Białobrzewski"
+  given-names: "Michał"
+  
+- family-names: "Klepka"
+  given-names: "Barbara"  
+  
+- family-names: "Cieplak-Rotowska"
+  given-names: "Maja"    
+  
+- family-names: "Staszałek"
+  given-names: "Zuzanna"  
+  
+- family-names: "Cichocki"
+  given-names: "Bogdan"    
+  
+- family-names: "Lisicki"
+  given-names: "Maciej"
+  orcid: "https://orcid.org/0000-0002-6976-0281"
+  
+- family-names: "Szymczak"
+  given-names: "Piotr"      
+  
+- family-names: "Niedzwiecka"
+  given-names: "Anna"        
+  
+title: "Hydrodynamic Radii of Intrinsically Disordered Proteins: Fast Prediction by Minimum Dissipation Approximation and Experimental Validation"
+
+doi: 10.1021/acs.jpclett.4c00312
+date-released: 2024-05-02
+url: "https://doi.org/10.1021/acs.jpclett.4c00312"
+
+publisher: ACS
+year: 2024
+journal: J. Phys. Chem. Lett
