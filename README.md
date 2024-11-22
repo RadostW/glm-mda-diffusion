@@ -86,16 +86,30 @@ glm_mda_diffusion.protein_hydrodynamic_radius(
 
 This software is licensed under GPLv3 License
 
-Copyright (c) Radost Waszkiewicz (2023).
+Copyright (C) Radost Waszkiewicz (2023).
 
 # How to cite
 
-*Minimum dissipation approximation: A fast algorithm for the prediction of diffusive properties of intrinsically disordered proteins.* Radost Waszkiewicz, Agnieszka Michaś, Michał K. Białobrzewski, Barbara P. Klepka, Maja K. Cieplak-Rotowska, Zuzanna Staszałek, Bogdan Cichocki, Maciej Lisicki, Piotr Szymczak, and Anna Niedźwiecka; J. Phys. Chem. Lett. (submitted 2023)
+*Hydrodynamic Radii of Intrinsically Disordered Proteins: Fast Prediction by Minimum Dissipation Approximation and Experimental Validation.*
+Radost Waszkiewicz, Agnieszka Michaś, Michał K. Białobrzewski, Barbara P. Klepka, Maja K. Cieplak-Rotowska, Zuzanna Staszałek, Bogdan Cichocki, Maciej Lisicki, Piotr Szymczak, and Anna Niedźwiecka; J. Phys. Chem. Lett. (2024)
+
+```bibtex
+@article{Waszkiewicz_2024,
+	title        = {Hydrodynamic Radii of Intrinsically Disordered Proteins: Fast Prediction by Minimum Dissipation Approximation and Experimental Validation},
+	author       = {Waszkiewicz, Radost and Michas, Agnieszka and Bia{\l}obrzewski, Micha{\l} K and Klepka, Barbara P and Cieplak-Rotowska, Maja K and Stasza{\l}ek, Zuzanna and Cichocki, Bogdan and Lisicki, Maciej and Szymczak, Piotr and Niedzwiecka, Anna},
+	year         = 2024,
+	journal      = {The Journal of Physical Chemistry Letters},
+	publisher    = {ACS Publications},
+	volume       = 15,
+	number       = 19,
+	pages        = {5024--5033}
+}
+```
 
 # Bibliography
 
 - *Diffusion coefficients of elastic macromolecules.* B. Cichocki, M. Rubin,  A. Niedzwiecka, and P. Szymczak; J. Fluid Mech. (2019)
 
-- *GRPY: An Accurate Bead Method for Calculation of Hydrodynamic Properties of Rigid Biomacromolecules.* P. Zuk, B. Cichocki, and P. Szymczak; Biophysical Journal (2018)
+- *GRPY: An Accurate Bead Method for Calculation of Hydrodynamic Properties of Rigid Biomacromolecules.* P. Zuk, B. Cichocki, and P. Szymczak; Biophys. J. (2018)
 
- - *Pychastic: Precise Brownian dynamics using Taylor-Ito integrators in Python.* R. Waszkiewicz, M. Bartczak, K. Kolasa, and M. Lisicki;  SciPost Phys. Codebases (2023)
+- *Pychastic: Precise Brownian dynamics using Taylor-Ito integrators in Python.* R. Waszkiewicz, M. Bartczak, K. Kolasa, and M. Lisicki;  SciPost Phys. Codebases (2023)
