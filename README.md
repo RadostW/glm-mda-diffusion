@@ -6,6 +6,12 @@
 
 Minimum dissipation approximation is a fast algorithm for predicting the diffusive properties of intrinsically disordered proteins.
 
+# Try with Colab
+
+<a target="_blank" href="https://colab.research.google.com/github/RadostW/glm-mda-diffusion/blob/main/colab_notebooks/glm_mda_diffusion.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Installation
 
 ```bash
