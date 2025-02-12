@@ -99,6 +99,8 @@ Copyright (C) Radost Waszkiewicz (2023).
 *Hydrodynamic Radii of Intrinsically Disordered Proteins: Fast Prediction by Minimum Dissipation Approximation and Experimental Validation.*
 Radost Waszkiewicz, Agnieszka Michaś, Michał K. Białobrzewski, Barbara P. Klepka, Maja K. Cieplak-Rotowska, Zuzanna Staszałek, Bogdan Cichocki, Maciej Lisicki, Piotr Szymczak, and Anna Niedźwiecka; J. Phys. Chem. Lett. (2024)
 
+https://doi.org/10.1021/acs.jpclett.4c00312
+
 ```bibtex
 @article{Waszkiewicz_2024,
 	title        = {Hydrodynamic Radii of Intrinsically Disordered Proteins: Fast Prediction by Minimum Dissipation Approximation and Experimental Validation},
