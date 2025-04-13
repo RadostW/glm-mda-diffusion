@@ -1,0 +1,45 @@
+id,aminoacids,asciiname,latexname,source,rh,sigmarh,temperature,solvent,method
+1,13,a_beta_12_24,A \textbeta (12-24),Danielsson_2002,10.6,0.05,25,water,PFG-NMR
+2,28,a_beta_1_28,A \textbeta (1-28),Danielsson_2002,14.6,0.09,25,water,PFG-NMR
+3,40,a_beta_1_40,A \textbeta (1-40),Danielsson_2002,16.1,0.2,25,water,PFG-NMR
+4,90,p_sic_1,pSic1,Mittag_2008,19.3,1.4,25,10 mM sodium phosphate pH 7.0. 140 mM NaCl. 1 mM EDTA. 0.2percent NaN3. 10percent D2O,PFG-NMR
+5,93,p_53_1_93,p53(1-93),Perez_2014,32.8,1.3,25,10 mM sodium phosphate pH 7. 100 mM NaCl,DLS
+6,93,e_m_protein,E\textsubscript{m} protein,McCubbin_1985,28,no data,23,20 mM HEPES pH 7.5. 100 mM KCl. 0.5 mM DTT. 3 mM MgCl2,SEC
+7,129,lysozyme,Lysozyme,this work,17,1,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT globular protein,FCS
+8,131,aa_fe_cr,AaFEcR,Wiech_2019,27,1,RT,10 mM Tris_HCl pH 7.0. 150 mM NaCl,SEC
+9,135,aap_pgr,Aap PGR,Yarawsky_2017,38.4,0.9,25,20 mM K2HPO4_KH2PO4 pH 7.4. 150 mM NaCl,DLS
+10,139,n_tail,N \textsubscript{tail},Longhi_2003,30,2,20,10 mM sodium phosphate pH 7 and in 10 mM Tris pH 8. 75 mM NaCl,DLS
+11,140,alpha_synuclein,\textalpha{}-Synuclein,Pesce_2023,27.9,0.3,20,20 mM Na2HPO4_NaH2PO4 pH 7.4. 150 mM NaCl. 2percent glycerol. 10percent D2O. 0.25 mM DSS. 0.02percent dioxane. 0.02percent NaN3,PFG-NMR
+12,140,h_nl_3_cyt,hNL3-cyt,Paz_2008,27.3,0.4,20,Phosphate_buffered saline pH 8.0,AUC
+13,149,sap_1a,SAP 1A,this work,33,3,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+14,167,ana_c046_172_338,ANAC046 \textsubscript{172-338},Pesce_2023,30.4,0.1,25,20 mM Na2HPO4_NaH2PO4 pH 7.0 100 mM NaCl. 1 mM DTT. 0.02percent dioxane. 0.02percent NaN3,PFG-NMR
+15,169,hif_1_alpha_530_698,HIF-1\textalpha{}(530-698),Sanchez_Puig_2005,38.3,0.04,RT,25 mM NaPi pH 7.2.  150 mM KCl.  10 mM 2_mercaptoethanol,SEC
+16,190,eif4e_28_217,eIF4E(28-217),this work,27,1.9,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+17,201,hif_1_alpha_403-603,HIF-1\textalpha{}(403-603),Sanchez_Puig_2005,44.3,0.1,RT,25 mM NaPi pH 7.2.  150 mM KCl.  10 mM 2_mercaptoethanol,SEC
+18,204,securin,Securin,Sanchez_Puig_2005,39.7,0.04,RT,25 mM NaPi pH 7.2. 150 mM KCl.  10 mM 2_mercaptoethanol,SEC
+19,206,snap_25,SNAP25,Choi_2011,39.3,2.8,20,20 mM Tris pH 7.5.  150 mM NaCl.  0.5 mM DTT,DLS
+20,217,eif4e,eIF4e,this work,32.4,1.7,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+21,236,h6_pnt,H\textsubscript{6}-PNT,Karlin_2002,47,4,20,100 mM NaCl pH 8,DLS
+22,237,3d7_6hmsp2,3D7-6HMSP2,Zhang_2008,34.3,0.7,25,PBS pH 7.0,PFG-NMR
+23,245,alpha_chymo_trypsinogen_a,\textalpha{}-chymo-trypsinogen A,this work,23,1,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT globular protein,FCS
+24,256,h6_mcherry,H\textsubscript{6}-mCherry,this work,25.8,0.7,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT globular protein,FCS
+25,267,h6_sumo_sap_1a,H\textsubscript{6}-SUMO-SAP 1A,this work,37,4,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+26,272,m_alpha_egfp_h6,m\textalpha{}EGFP-H\textsubscript{6},this work,22.2,0.6,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT globular protein,FCS
+27,282,h6_mcherry_alpha_helix,H\textsubscript{6}-mCherry-\textalpha{}helix,this work,30.5,0.9,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+28,324,h6_sumo_cnot1_800_999,H\textsubscript{6}-SUMO-CNOT1(800-999),this work,29.6,1.2,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+29,348,gw182sd_delta_rrm,GW182SD \textDelta{}RRM,this work,36,3,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+30,370,sumo_m_alpha_egfp_h6,SUMO-m\textalpha{}EGFP-H\textsubscript{6},this work,35,6,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+31,404,calreticulin,Calreticulin,Bouvier_2000,46,no data,RT,20 mM Hepes pH 7.5.  150 mM NaCl,SEC
+32,410,he_vpnt,HeVPNT,Habchi_2010,44,2,RT,10 mM Tris buffer pH 8. 300 mM NaCl and in 10 mM sodium phosphate pH 7. 150 mM NaCl,SEC
+33,412,ni_vpnt,NiVPNT,Habchi_2010,44,2,RT,10 mM Tris buffer pH 8. 300 mM NaCl and in 10 mM sodium phosphate pH 7. 150 mM NaCl,SEC
+34,434,gst_cnot1_800_999,GST-CNOT1(800-999),this work,39,2,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+35,469,h6_sumo_gw182sd_delta_rrm,H\textsubscript{6}-SUMO-GW182SD \textDelta{}RRM,this work,38,3,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+36,506,agarp,AGARP,this work,54,3,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+37,513,h6_sumo_parnc_mcherry,H\textsubscript{6}-SUMO-PARNC-mCherry,this work,44.4,1.9,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+38,585,hsa,HSA,this work,33.4,1.7,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT globular protein,FCS
+39,608,omm_64,OMM-64,Poznar_2017,75.9,0.1,20,10 mM Tris pH 7.5. 100 mM NaCl,AUC
+40,624,h6_sumo_agarp,H\textsubscript{6}-SUMO-AGARP,this work,57,3,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+41,688,gw182sd_mcherry,GW182SD-mCherry,this work,50,3,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+42,809,h6_sumo_gw182sd_mcherry,H\textsubscript{6}-SUMO-GW182SD-mCherry,this work,66,6,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT,FCS
+43,996,fesselin,Fesselin,Khaymina_2007,53,no data,no data,20 mM MOPS pH 7.0. 200 mM NaCl. 2 mM EGTA,SEC
+44,4200,apoferritin_24_mer,Apoferritin (24-mer),this work,58,3,25,50 mM Tris pH 8.0. 150 mM NaCl. 0.5 mM EDTA. 1 mM TCEP or DTT globular protein,FCS
